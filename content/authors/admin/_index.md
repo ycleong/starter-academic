@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
+I am postdoctoral scholar at the University of California, Berkeley working with Mark D'Esposito. My research examines the psychological and neural processes underlying how our goals, desires and needs influence how we perceive and respond to our physical and social environment.
+
 I am in the process of moving my site. Please visit my old site here: https://ycleong.github.io/
-
-
