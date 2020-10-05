@@ -31,7 +31,7 @@ education:
     year: 2019
   - course: AB in Psychology
     institution: Princeton University
-    year: 2009
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
