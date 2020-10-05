@@ -30,7 +30,7 @@ education:
     institution: Stanford University
     year: 2019
   - course: AB in Psychology
-    institution: Princeton University
+    institution: Princeton University | Certificate in Quantitative and Computational Neuroscience
     year: 2013
 
 # Social/Academic Networking
