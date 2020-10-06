@@ -24,16 +24,17 @@ organizations:
 #- Computational Linguistics
 #- Information Retrieval
 
+# Education to show in About widget
 education:
   courses:
   - course: Postdoctoral Scholar
-    institution: UC Berkeley | Advisor: Mark D'Esposito
+    institution: UC Berkeley | Advisor - Mark D'Esposito
     year: 2019
   - course: PhD in Psychology
-    institution: Stanford University | Advisor: Jamil Zaki
+    institution: Stanford University | Advisor - Jamil Zaki
     year: 2019
   - course: AB in Psychology
-    institution: Princeton University | Certificate in Quantitative and Computational Neuroscience | Advisor: Yael Niv
+    institution: Princeton University | Certificate in Quantitative and Computational Neuroscience | Advisor - Yael Niv
     year: 2013
 
 # Social/Academic Networking
