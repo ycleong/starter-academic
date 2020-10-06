@@ -28,6 +28,7 @@ education:
   courses:
   - course: Postdoctoral Scholar
     institution: UC Berkeley | Advisor: Mark D'Esposito
+    year: 
   - course: PhD in Psychology
     institution: Stanford University | Advisor: Jamil Zaki
     year: 2019
