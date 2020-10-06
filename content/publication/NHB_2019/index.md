@@ -33,9 +33,14 @@ featured: false
 links:
 - name: Article 
   url: https://www.nature.com/articles/s41562-019-0637-z
+- name: PDF
+  url: 'files/papers/LeongNHB2019.pdf'
 - name: SI
   url: 'files/papers/LeongNHB2019_Supplement.pdf'
-  
+- name: Code/Data
+  url: https://github.com/ycleong/MotivatedPerception  
+- name: Commentary
+  url: https://www.nature.com/articles/s41562-019-0639-x
 
 #url_code: '#'
 #url_dataset: '#'
