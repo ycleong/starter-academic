@@ -1,5 +1,5 @@
 ---
-title: "How We Transmit Memories to Other Brains: Constructing Shared Neural Representations Via Communication"
+title: "How We Transmit Memories to Other Brains - Constructing Shared Neural Representations Via Communication"
 authors: 
 - Asieh Zadbood
 - Janice Chen
