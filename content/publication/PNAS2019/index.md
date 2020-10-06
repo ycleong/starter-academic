@@ -1,8 +1,8 @@
 ---
 title: "Neural detection of socially valued community members"
 authors: 
+- Sylvia Morelli
 - admin
-- Brent L. Hughes
 - Yiyu Wang 
 - Jamil Zaki 
 date: "2019-07-01T00:00:00Z"
