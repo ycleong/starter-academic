@@ -40,6 +40,5 @@ I found that participants were nevertheless biased to categorize the images as t
 
 How desire can warp our view of the world (Vox, 8.8.2019)
 
-**References:**. 
-
+**References:**   
 **Leong, Y. C.**, Hughes, B. L., Wang, Y., & Zaki, J. Neurocomputational mechanisms underlying motivated seeing. *Nature Human Behaviour*, 3(9): 962-973 (2019)
