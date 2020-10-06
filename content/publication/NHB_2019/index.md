@@ -31,9 +31,9 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+- name: Article 
+  url: https://www.nature.com/nathumbehav/
+url_pdf: '#'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
