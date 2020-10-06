@@ -18,13 +18,13 @@ publishDate: "2019-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Human Behavior"
-publication_short: "Nat. Hum. Behav."
+publication: "Proceedings of the National Academy of Sciences"
+publication_short: "PNAS"
 
-abstract: People tend to believe that their perceptions are veridical representations of the world, but also commonly report perceiving what they want to see or hear. It remains unclear whether this reflects an actual change in what people perceive or merely a bias in their responding. Here we manipulated the percept that participants wanted to see as they performed a visual categorization task. Even though the reward-maximizing strategy was to perform the task accurately, the manipulation biased participants’ perceptual judgements. Motivation increased neural activity selective for the motivationally relevant category, indicating a bias in participants’ neural representation of the presented image. Using a drift diffusion model, we decomposed motivated seeing into response and perceptual components. Response bias was associated with anticipatory activity in the nucleus accumbens, whereas perceptual bias tracked category-selective neural activity. Our results provide a computational description of how the drive for reward leads to inaccurate representations of the world.
+abstract: People tend to interpret political information in a manner that confirms their prior beliefs, a cognitive bias that contributes to rising political polarization. In this study, we combined functional magnetic resonance imaging with semantic content analyses to investigate the neural mechanisms that underlie the biased processing of real-world political content. We scanned American participants with conservative-leaning or liberal-leaning immigration attitudes while they watched news clips, campaign ads, and public speeches related to immigration policy. We searched for evidence of “neural polarization”: activity in the brain that diverges between people who hold liberal versus conservative political attitudes. Neural polarization was observed in the dorsomedial prefrontal cortex (DMPFC), a brain region associated with the interpretation of narrative content. Neural polarization in the DMPFC intensified during moments in the videos that included risk-related and moral-emotional language, highlighting content features most likely to drive divergent interpretations between conservatives and liberals. Finally, participants whose DMPFC activity closely matched that of the average conservative or the average liberal participant were more likely to change their attitudes in the direction of that group’s position. Our work introduces a novel multi-method approach to study the neural basis of political cognition in naturalistic settings. Using this approach, we characterize how political attitudes biased information processing in the brain, the language most likely to drive polarized neural responses, and the consequences of biased processing for attitude change. Together, these results shed light on the psychological and neural underpinnings of how identical information is interpreted differently by conservatives and liberals.
 
 # Summary. An optional shortened abstract.
-summary: "*Nature Human Behavior* (2019)"
+summary: "*PNAS* (accepted)"
 
 tags:
 #- Source Themes
