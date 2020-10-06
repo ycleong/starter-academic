@@ -23,7 +23,7 @@ links:
 - icon:
   icon_pack: 
   name: Learn More
-  url: https://twitter.com/georgecushen
+  url: "project/visualperception"
 url_code: ""
 url_pdf: ""
 url_slides: ""
