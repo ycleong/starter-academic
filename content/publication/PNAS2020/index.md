@@ -1,9 +1,9 @@
 ---
-title: "Neurocomputational mechanisms underlying motivated seeing"
+title: "Conservative and liberal attitudes drive polarized neural responses to political content"
 authors: 
-- admin
-- Brent L. Hughes
-- Yiyu Wang 
+- Yuan Chang Leong
+- Janice Chen
+- Robb Willer
 - Jamil Zaki 
 date: "2019-07-01T00:00:00Z"
 doi: ""
