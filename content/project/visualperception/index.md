@@ -37,8 +37,8 @@ Individuals with different motivations often report seeing the same image differ
 I found that participants were nevertheless biased to categorize the images as the category they were motivated to see. If motivation altered perceptual experience, we would expect to observe a corresponding effect on neural representations in the category-selective visual cortex. Indeed, for a given image, face-selective neural activity was higher when participants were motivated to see more face, while scene-selective activity was higher when they were motivated to see more scene. Motivationally biased judgments were associated with increased activity in frontoparietal regions that I had previously found to be involved in the reward-modulated control of attention, suggesting a potential source of top-down signals driving these effects. Using a computational model, I further showed that participants’ motivational bias could be decomposed into an a priori bias to respond in a motivation-consistent manner (i.e. a ‘response’ bias), as well as a bias in the accumulation of sensory information (i.e. a ‘perceptual’ bias). The response bias was associated with anticipatory activity in the nucleus accumbens, a striatal structure implicated in reward processing and action selection. In contrast, the perceptual bias tracked modulations in category-selective neural activity in the visual cortex. Together, these results not only demonstrate that motivation biases perception, but also provide a neurocomputational account of how this occurs.
 
 **Popular Press**:  
-<a href="https://github.com/dmort27/epitran" target="_blank">Epitran</a>
-How desire can warp our view of the world (Vox, 8.8.2019)  
+<a href="https://www.vox.com/science-and-health/2019/8/8/20706126/motivated-perception-psychology" target="_blank">How desire can warp our view of the world</a> (Vox, 8.8.2019)  
+
 
 **References:**   
 **Leong, Y. C.**, Hughes, B. L., Wang, Y., & Zaki, J. Neurocomputational mechanisms underlying motivated seeing. *Nature Human Behaviour*, 3(9): 962-973 (2019)
