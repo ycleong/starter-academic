@@ -34,7 +34,7 @@ education:
     institution: Stanford University | Advisor - Jamil Zaki
     year: 2019
   - course: AB in Psychology
-    institution: Princeton University | Certificate in Quantitative and Computational Neuroscience | Advisor - Yael Niv
+    institution: Princeton University | Advisor - Yael Niv
     year: 2013
 
 # Social/Academic Networking
