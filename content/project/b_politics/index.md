@@ -1,6 +1,6 @@
 ---
 title: Motivated political reasoning
-summary: Individuals with different motivations often report seeing the same image differently, but it is unclear whether this reflects a bias in what they *see* or what they *report* seeing. Can people with diverse goals and motives truly perceive the same visual stimuli differently? In recent work, I combined computational modeling and fMRI to provide a neurocomputational account of how motivation biases visual perception. 
+summary: When presented with the identical political content, conservatives and liberals tend to interpret information in a manner that supports their existing beliefs. These biases contribute to increasing ideological polarization in America. What psychological and neural processes drive the divergent processing of political information? To address this question, we employed a novel multimethod approach that combines fMRI with semantic analyses of naturalistic political content.
 
 #tags:
 #- Deep Learning
