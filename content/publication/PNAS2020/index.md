@@ -32,7 +32,7 @@ featured: false
 
 links:
 - name: Preprint
-  url: https://www.biorxiv.org/content/10.1101/2020.04.30.071084v1.abstract
+  url: "https://www.biorxiv.org/content/10.1101/2020.04.30.071084v1.abstract"
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
