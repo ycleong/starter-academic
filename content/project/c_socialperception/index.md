@@ -39,4 +39,4 @@ What happens when expectations of social value are misinformed, for example, whe
 **References:**   
 1. Morelli, S. A.`*`, **Leong, Y. C.`*`**, Carlson, R. W., Kullar, M., & Zaki, J. <a href="https://www.pnas.org/content/115/32/8149" target="_blank">Neural detection of socially valued community members</a>. *Proceedings of the National Academy of Sciences*, 115(32): 8149-8154 (2018)  
 
-2. **Leong, Y. C.** & Zaki, J. <a href="https://psycnet.apa.org/record/2017-52070-001" target="_blank">Unrealistic optimism in advice taking: A computational account</a>. *Journal of Experimental Psychology: General*, 147(2): 170 (2018)   
+2. **Leong, Y. C.** & Zaki, J. <a href="https://psycnet.apa.org/record/2017-52070-001" target="_blank">Unrealistic optimism in advice taking: A computational account</a>. *Journal of Experimental Psychology: General*, 147(2): 170 (2018) <a href="http://ssnl.stanford.edu/sites/default/files/pdf/leong_2018_advice.pdf" target="_blank">[PDF]</a>  
