@@ -1,15 +1,16 @@
 ---
-title: "Neurocomputational mechanisms underlying motivated seeing"
+title: "How We Transmit Memories to Other Brains: Constructing Shared Neural Representations Via Communication"
 authors: 
+- Asieh Zadbood
+- Janice Chen
 - admin
-- Brent L. Hughes
-- Yiyu Wang 
-- Jamil Zaki 
-date: "2019-07-01T00:00:00Z"
+- Kenneth A. Norman
+- Uri Hasson
+date: "2017-08-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-07-01T00:00:00Z"
+publishDate: "2017-08-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,13 +19,13 @@ publishDate: "2019-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Human Behavior"
-publication_short: "Nat. Hum. Behav."
+publication: "Cerebral Cortex"
+publication_short: ""
 
-abstract: People tend to believe that their perceptions are veridical representations of the world, but also commonly report perceiving what they want to see or hear. It remains unclear whether this reflects an actual change in what people perceive or merely a bias in their responding. Here we manipulated the percept that participants wanted to see as they performed a visual categorization task. Even though the reward-maximizing strategy was to perform the task accurately, the manipulation biased participants’ perceptual judgements. Motivation increased neural activity selective for the motivationally relevant category, indicating a bias in participants’ neural representation of the presented image. Using a drift diffusion model, we decomposed motivated seeing into response and perceptual components. Response bias was associated with anticipatory activity in the nucleus accumbens, whereas perceptual bias tracked category-selective neural activity. Our results provide a computational description of how the drive for reward leads to inaccurate representations of the world.
+abstract: Humans are able to mentally construct an episode when listening to another person's recollection, even though they themselves did not experience the events. However, it is unknown how strongly the neural patterns elicited by mental construction resemble those found in the brain of the individual who experienced the original events. Using fMRI and a verbal communication task, we traced how neural patterns associated with viewing specific scenes in a movie are encoded, recalled, and then transferred to a group of naïve listeners. By comparing neural patterns across the 3 conditions, we report, for the first time, that event-specific neural patterns observed in the default mode network are shared across the encoding, recall, and construction of the same real-life episode. This study uncovers the intimate correspondences between memory encoding and event construction, and highlights the essential role our common language plays in the process of transmitting one's memories to other brains.
 
 # Summary. An optional shortened abstract.
-summary: "*Nature Human Behavior* (2019)"
+summary: "*Cerebral Cortex* (2017)"
 
 tags:
 #- Source Themes
@@ -32,15 +33,9 @@ featured: false
 
 links:
 - name: Article 
-  url: https://www.nature.com/articles/s41562-019-0637-z
+  url: https://academic.oup.com/cercor/article/27/10/4988/4080827
 - name: PDF
-  url: 'files/papers/LeongNHB2019.pdf'
-- name: SI
-  url: 'files/papers/LeongNHB2019_Supplement.pdf'
-- name: Code/Data
-  url: https://github.com/ycleong/MotivatedPerception  
-- name: Commentary
-  url: https://www.nature.com/articles/s41562-019-0639-x
+  url: 'files/papers/CerebCortex2017.pdf'
 
 #url_code: '#'
 #url_dataset: '#'
