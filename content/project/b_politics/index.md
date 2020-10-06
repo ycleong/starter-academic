@@ -17,7 +17,7 @@ links:
 - icon:
   icon_pack: 
   name: Learn More
-  url: "project/visualperception"
+  url: "project/b_politics"
 url_code: ""
 url_pdf: ""
 url_slides: ""
