@@ -70,8 +70,8 @@ user_groups:
 - Visitors
 ---
 
-
-
 Imagine playing a heated tennis match and hitting a shot that might or might not have just grazed the sidelines. Would your motivation to win make you more likely to see the ball as having stayed within bounds? Most of us can think of times when we or people we know were biased to see what is desirable, rather than what is really there. How does this happen, and what can we do about it?
 
 My research examines the different ways in which goals, desires and needs affect how people perceive and respond to our environment. My work draws from the traditions of cognitive neuroscience, social psychology and affective science. I use a broad range of methodological tools, including behavioral experiments, computational modeling, fMRI, pupillometry, naturalistic paradigms and network analyses. By combining different tools and perspectives, I seek to characterize motivational influences on human cognition at the psychological, computational and neural levels. One ultimate goal of this work is to identify behavioral and neural targets of intervention to improve socio-cognitive functioning.
+
+I am currently a postdoctoral scholar at the University of California, Berkeley working with Mark D'Esposito. I recieved my PhD in Psychology from Stanford University working with Jamil Zaki. As an undergraduate, I attended Princeton University where I obtained by AB in Psychology working with Yael Niv.  
