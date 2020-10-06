@@ -24,14 +24,16 @@ organizations:
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Psychology
-#    institution: Stanford University
-#    year: 2019
-#  - course: AB in Psychology
-#    institution: Princeton University | Certificate in Quantitative and Computational Neuroscience
-#    year: 2013
+education:
+  courses:
+  - course: Postdoctoral Scholar
+    institution: UC Berkeley | Advisor: Mark D'Esposito
+  - course: PhD in Psychology
+    institution: Stanford University | Advisor: Jamil Zaki
+    year: 2019
+  - course: AB in Psychology
+    institution: Princeton University | Certificate in Quantitative and Computational Neuroscience | Advisor: Yael Niv
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
