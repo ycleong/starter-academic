@@ -33,16 +33,16 @@ featured: false
 links:
 - name: Article 
   url: https://www.nature.com/articles/s41562-019-0637-z
-url_pdf: '#files/papers/LeongNHB2019.pdf'
 - name: SI
   url: '#files/papers/LeongNHB2019_Supplement.pdf'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
