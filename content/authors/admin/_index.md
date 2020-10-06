@@ -24,14 +24,14 @@ organizations:
 #- Computational Linguistics
 #- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Psychology
-    institution: Stanford University
-    year: 2019
-  - course: AB in Psychology
-    institution: Princeton University | Certificate in Quantitative and Computational Neuroscience
-    year: 2013
+#education:
+#  courses:
+#  - course: PhD in Psychology
+#    institution: Stanford University
+#    year: 2019
+#  - course: AB in Psychology
+#    institution: Princeton University | Certificate in Quantitative and Computational Neuroscience
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
