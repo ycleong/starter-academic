@@ -17,7 +17,7 @@ links:
 - icon:
   icon_pack: 
   name: Learn More
-  url: "project/visualperception"
+  url: "project/a_visualperception"
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -38,7 +38,7 @@ Participants were more likely to report seeing the image as containing more of t
 
 Analyzing participants’ behavior using a computational model of the underlying decision processes, I further showed that participants’ motivational bias could be decomposed into an *a priori* bias to respond in a motivation-consistent manner (i.e. a ‘response’ bias), as well as a bias in the accumulation of sensory information (i.e. a ‘perceptual’ bias). The response bias was associated with anticipatory activity in the nucleus accumbens, a striatal structure implicated in reward processing and action selection. In contrast, the perceptual bias tracked modulations in category-selective neural activity in the visual cortex. 
 
-Reframing the problem as a ‘how’ question opens the door to new lines of enquiry about mechanisms. Drawing on the intuition that motivation tends to be arousing, as well as prior work showing that arousal tunes visual attention, I hypothesized that motivational effects on perception are mediated by changes in physiological arousal. In my postdoctoral work, I show that heightened arousal, as measured using pupillometry, was indeed associated with motivational biases in the accumulation of perceptual information <a href="https://www.biorxiv.org/content/10.1101/2020.05.29.124115v1" target="_blank">[3]</a>. Ongoing and future work further explores this topic by examining the temporal dynamics of motivational biases, the neural mechanisms that mediate arousal effects, and the different effects of approach and avoidance motivations. In bringing together a formal characterization of behavior, affective states and brain function, this work seeks to advance an integrative understanding of motivated visual perception. test
+Reframing the problem as a ‘how’ question opens the door to new lines of enquiry about mechanisms. Drawing on the intuition that motivation tends to be arousing, as well as prior work showing that arousal tunes visual attention, I hypothesized that motivational effects on perception are mediated by changes in physiological arousal. In my postdoctoral work, I show that heightened arousal, as measured using pupillometry, was indeed associated with motivational biases in the accumulation of perceptual information <a href="https://www.biorxiv.org/content/10.1101/2020.05.29.124115v1" target="_blank">[3]</a>. Ongoing and future work further explores this topic by examining the temporal dynamics of motivational biases, the neural mechanisms that mediate arousal effects, and the different effects of approach and avoidance motivations. In bringing together a formal characterization of behavior, affective states and brain function, this work seeks to advance an integrative understanding of motivated visual perception. 
 
 **Media**:  
 <a href="https://www.vox.com/science-and-health/2019/8/8/20706126/motivated-perception-psychology" target="_blank">How desire can warp our view of the world</a> (Vox, 8.8.2019)
