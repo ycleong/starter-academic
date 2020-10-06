@@ -21,13 +21,13 @@ publication_types: ["2"]
 publication: "Nature Human Behavior"
 publication_short: "Nat. Hum. Behav."
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: People tend to believe that their perceptions are veridical representations of the world, but also commonly report perceiving what they want to see or hear. It remains unclear whether this reflects an actual change in what people perceive or merely a bias in their responding. Here we manipulated the percept that participants wanted to see as they performed a visual categorization task. Even though the reward-maximizing strategy was to perform the task accurately, the manipulation biased participants’ perceptual judgements. Motivation increased neural activity selective for the motivationally relevant category, indicating a bias in participants’ neural representation of the presented image. Using a drift diffusion model, we decomposed motivated seeing into response and perceptual components. Response bias was associated with anticipatory activity in the nucleus accumbens, whereas perceptual bias tracked category-selective neural activity. Our results provide a computational description of how the drive for reward leads to inaccurate representations of the world.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+#- Source Themes
 featured: false
 
 links:
