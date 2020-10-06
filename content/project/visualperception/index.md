@@ -1,6 +1,6 @@
 ---
 title: Motivated visual perception
-summary: Individuals with different motivations often report seeing the same image differently, but it is unclear whether this reflects a bias in what they *see* or what they *report* seeing. Can people with diverse goals and motives truly perceive the same visual stimuli differently? In recent work, I combined computational modeling and fMRI to provide a neurocomputational account of how motivation biases visual perception. [My CV]{{< ref "cv/index.md" >}}  
+summary: Individuals with different motivations often report seeing the same image differently, but it is unclear whether this reflects a bias in what they *see* or what they *report* seeing. Can people with diverse goals and motives truly perceive the same visual stimuli differently? In recent work, I combined computational modeling and fMRI to provide a neurocomputational account of how motivation biases visual perception.
 
 #tags:
 #- Deep Learning
@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 #links:
-#- icon:
-#  icon_pack: 
-#  name: Learn More
-#  url: "project/visualperception"
+- icon:
+  icon_pack: 
+  name: Learn More
+  url: "project/visualperception"
 url_code: ""
 url_pdf: ""
 url_slides: ""
