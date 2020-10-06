@@ -33,9 +33,9 @@ featured: false
 links:
 - name: Article 
   url: https://www.nature.com/articles/s41562-019-0637-z
-url_pdf: #files/papers/LeongNHB2019.pdf
+url_pdf: '#files/papers/LeongNHB2019.pdf'
 - name: SI
-  url: files/papers/LeongNHB2019_Supplement.pdf
+  url: '#files/papers/LeongNHB2019_Supplement.pdf'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
