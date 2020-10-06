@@ -24,23 +24,19 @@ publication_short: "PNAS"
 abstract: People tend to interpret political information in a manner that confirms their prior beliefs, a cognitive bias that contributes to rising political polarization. In this study, we combined functional magnetic resonance imaging with semantic content analyses to investigate the neural mechanisms that underlie the biased processing of real-world political content. We scanned American participants with conservative-leaning or liberal-leaning immigration attitudes while they watched news clips, campaign ads, and public speeches related to immigration policy. We searched for evidence of "neural polarization" - activity in the brain that diverges between people who hold liberal versus conservative political attitudes. Neural polarization was observed in the dorsomedial prefrontal cortex (DMPFC), a brain region associated with the interpretation of narrative content. Neural polarization in the DMPFC intensified during moments in the videos that included risk-related and moral-emotional language, highlighting content features most likely to drive divergent interpretations between conservatives and liberals. Finally, participants whose DMPFC activity closely matched that of the average conservative or the average liberal participant were more likely to change their attitudes in the direction of that group’s position. Our work introduces a novel multi-method approach to study the neural basis of political cognition in naturalistic settings. Using this approach, we characterize how political attitudes biased information processing in the brain, the language most likely to drive polarized neural responses, and the consequences of biased processing for attitude change. Together, these results shed light on the psychological and neural underpinnings of how identical information is interpreted differently by conservatives and liberals.
 
 # Summary. An optional shortened abstract.
-summary: "*PNAS* (accepted)"
+summary: "*Proceedings of the National Academy of Sciences* (accepted)"
 
 tags:
 #- Source Themes
 featured: false
 
 links:
-- name: Article 
-  url: https://www.nature.com/articles/s41562-019-0637-z
-- name: PDF
-  url: 'files/papers/LeongNHB2019.pdf'
+- name: Preprint
+  url: 'files/papers/LeongPNAS2020.pdf'
 - name: SI
-  url: 'files/papers/LeongNHB2019_Supplement.pdf'
+  url: 'files/papers/LeongPNAS2020.pdf'
 - name: Code/Data
-  url: https://github.com/ycleong/MotivatedPerception  
-- name: Commentary
-  url: https://www.nature.com/articles/s41562-019-0639-x
+  url: https://github.com/ycleong/Polarization
 
 #url_code: '#'
 #url_dataset: '#'
