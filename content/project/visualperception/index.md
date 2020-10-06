@@ -38,7 +38,7 @@ I found that participants were nevertheless biased to categorize the images as t
 
 **Popular Press**:  
 <a href="https://www.vox.com/science-and-health/2019/8/8/20706126/motivated-perception-psychology" target="_blank">How desire can warp our view of the world</a> (Vox, 8.8.2019)  
-
+<a href="https://www.psychologytoday.com/us/blog/between-cultures/201907/why-we-see-what-we-want-see" target="_blank">Why We See What We Want to See</a> (Psychology Today, 7.9.2019)  
 
 **References:**   
 **Leong, Y. C.**, Hughes, B. L., Wang, Y., & Zaki, J. Neurocomputational mechanisms underlying motivated seeing. *Nature Human Behaviour*, 3(9): 962-973 (2019)
