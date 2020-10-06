@@ -24,7 +24,7 @@ organizations:
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
+education:
   courses:
   - course: PhD in Psychology
     institution: Stanford University
