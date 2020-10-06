@@ -20,7 +20,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon:
   icon_pack: 
   name: Learn More
   url: https://twitter.com/georgecushen
