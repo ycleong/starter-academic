@@ -41,9 +41,10 @@ I found that participants were nevertheless biased to categorize the images as t
 
 <a href="https://www.psychologytoday.com/us/blog/between-cultures/201907/why-we-see-what-we-want-see" target="_blank">Why we see what we want to see</a> (Psychology Today, 7.9.2019)  
 
-<a href="https://www.nature.com/articles/s41562-019-0639-x" target="_blank">Why we see what we want to see</a> (News and Views, Nature Human Beahvior, 7.1.2019)  
+<a href="https://www.nature.com/articles/s41562-019-0639-x" target="_blank">Is visual representation coloured by desire?</a> (News and Views, Nature Human Beahvior, 7.1.2019)  
 
 **References:**   
-**Leong, Y. C.**, Hughes, B. L., Wang, Y., & Zaki, J. <a href="https://www.nature.com/articles/s41562-019-0637-z" target="_blank">Neurocomputational mechanisms underlying motivated seeing</a>. *Nature Human Behaviour*, 3(9): 962-973 (2019)   
+1. **Leong, Y. C.**, Hughes, B. L., Wang, Y., & Zaki, J. <a href="https://www.nature.com/articles/s41562-019-0637-z" target="_blank">Neurocomputational mechanisms underlying motivated seeing</a>. *Nature Human Behaviour*, 3(9): 962-973 (2019)   
 
-**Leong, Y. C.**, Dziembaj, R. & D'Esposito, M. <a href="https://www.biorxiv.org/content/10.1101/2020.05.29.124115v1" target="_blank">Pupil-linked arousal biases evidence accumulation towards desirable percepts during perceptual decision-making.</a>. *bioRxiv* (2020)
+2. **Leong, Y. C.**, Dziembaj, R. & D'Esposito, M. <a href="https://www.biorxiv.org/content/10.1101/2020.05.29.124115v1" target="_blank">Pupil-linked arousal biases evidence accumulation towards desirable percepts during perceptual decision-making</a>. *bioRxiv* (2020)  
+ 
