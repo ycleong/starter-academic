@@ -1,5 +1,5 @@
 ---
-title: "Network Paper"
+title: "Neural detection of socially valued community members"
 authors: 
 - admin
 - Brent L. Hughes
