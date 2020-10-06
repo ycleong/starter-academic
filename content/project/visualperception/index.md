@@ -19,7 +19,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ycleong.github.io/"
 url_slides: ""
 url_video: ""
 
