@@ -13,7 +13,7 @@ image:
   caption: 
   focal_point: Smart
 
-#links:
+links:
 - icon:
   icon_pack: 
   name: Learn More
