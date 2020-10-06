@@ -27,7 +27,7 @@ organizations:
 # Education to show in About widget
 education:
   courses:
-  - course: Postdoctoral Scholar
+  - course: Postdoctoral Scholar (current)
     institution: UC Berkeley | Advisor - Mark D'Esposito
   - course: PhD in Psychology
     institution: Stanford University | Advisor - Jamil Zaki
