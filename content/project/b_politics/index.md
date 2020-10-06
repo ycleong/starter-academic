@@ -1,6 +1,6 @@
 ---
 title: Motivated political reasoning
-summary: When presented with the identical political content, conservatives and liberals tend to interpret information through partisan lens. This contributes to increasing ideological polarization in America. What psychological and neural processes drive the divergent processing of political information? To address this question, we employed a novel multimethod approach that combines fMRI with semantic analyses of naturalistic political content.
+summary: When presented with the identical political content, conservatives and liberals tend to interpret information in a manner that supports their existing beliefs. These biases contribute to increasing ideological polarization in America. What psychological and neural processes drive the divergent processing of political information? To address this question, we employed a novel multimethod approach that combines fMRI with semantic analyses of naturalistic political content.
 
 #tags:
 #- Deep Learning
