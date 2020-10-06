@@ -31,8 +31,8 @@ tags:
 featured: false
 
 links:
-- name: Preprint
-  url: "https://www.biorxiv.org/content/10.1101/2020.04.30.071084v1.abstract"
+- name: Article 
+  url: https://www.nature.com/articles/s41562-019-0637-z
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
