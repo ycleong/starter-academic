@@ -34,7 +34,7 @@ links:
 - name: Preprint
   url: 'files/papers/LeongPNAS2020.pdf'
 - name: SI
-  url: 'files/papers/LeongPNAS2020.pdf'
+  url: 'files/papers/LeongPNAS2020_Supplement.pdf'
 - name: Code/Data
   url: https://github.com/ycleong/Polarization
 
