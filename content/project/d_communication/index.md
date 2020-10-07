@@ -1,5 +1,5 @@
 ---
-title: Motivated social perception
+title: Neural bases of communication
 summary: People are motivated to seek out socially valued individuals in their community (i.e. people who are trustworthy, supportive and well-connected). How do people identify these individuals? What happens when expectations of social value are misinformed, for example, when someone is less trustworthy than their reputation suggests? In this line of work, I use fMRI, social network analyses and computational modeling to examine how social value guides social interactions. 
 
 #tags:
