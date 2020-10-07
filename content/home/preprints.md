@@ -26,9 +26,9 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "Preprints"
     publication_type = ""
-    author = "Jamil Zaki"
+    author = ""
     exclude_featured = false
   
 [design]
