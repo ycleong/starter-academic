@@ -1,13 +1,13 @@
 ---
 title: "Reinforcement Learning in Multidimensional Environments Relies on Attention Mechanisms"
 authors: 
-- Y. Niv
-- R. Daniel
-- A. Geana 
-- S.J. Gershman
-- Y.C. Leong
-- A. Radulescu
-- R.C. Wilson
+- Yael Niv
+- Reka Daniel
+- Andra Geana 
+- Samuel J Gershman
+- admin
+- Angela Radulescu
+- Robert C Wilson
 
 date: "2015-05-27T00:00:00Z"
 doi: ""
