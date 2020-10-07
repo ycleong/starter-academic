@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Interaction between Reinforcement Learning and Attention in Multidimensional Environments"
+title: "Dynamic interaction between reinforcement learning and attention in multidimensional environments"
 authors: 
 - Yuan Chang Leong
 - Angela Radulescu
