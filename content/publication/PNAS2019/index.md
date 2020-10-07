@@ -36,7 +36,7 @@ links:
 - name: PDF
   url: 'files/papers/MorelliLeong_PNAS2019.pdf'
 - name: SI
-  url: 'MorelliLeong_PNAS2019_Supplement.pdf'
+  url: 'files/papers/MorelliLeong_PNAS2019_Supplement.pdf'
 - name: Code/Data
   url: https://github.com/esclabUIC/NetworkFMRI
 
