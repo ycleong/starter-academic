@@ -3,10 +3,10 @@ title: "Shared memories reveal shared structure in neural activity across indivi
 authors: 
 - "Janice Chen*"
 - "Yuan Chang Leong*" 
-- C.J. Honey
-- C.H. Yong
-- K.A. Norman
-- U. Hasson 
+- Christopher J Honey
+- Chung H Yong
+- Kenneth A Norman
+- Uri Hasson 
 date: "2017-09-05T00:00:00Z"
 doi: ""
 
