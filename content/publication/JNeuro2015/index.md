@@ -1,5 +1,5 @@
 ---
-title: "Neurocomputational mechanisms underlying motivated seeing"
+title: "Reinforcement Learning in Multidimensional Environments Relies on Attention Mechanisms"
 authors: 
 - admin
 - Brent L. Hughes
