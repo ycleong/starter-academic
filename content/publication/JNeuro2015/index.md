@@ -37,6 +37,10 @@ featured: false
 links:
 - name: Article 
   url: https://www.jneurosci.org/content/35/21/8145
+- name: PDF
+  url: 'files/papers/JNeuro2015.pdf'
+- name: Commentary
+  url: https://www.jneurosci.org/content/35/35/12083
 
 #url_code: '#'
 #url_dataset: '#'
