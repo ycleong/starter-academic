@@ -42,4 +42,4 @@ In a second study, we scanned a group of participants who had not watched the mo
 1. Chen, J.`*`, **Leong, Y. C.`*`**, Honey, C. J., Yong, C. H., Norman, K. A., & Hasson, U. <a href="https://www.nature.com/articles/nn.4450" target="_blank">Shared memories reveal shared structure in neural activity across individuals</a>. *Nature Neuroscience*, 20(1): 8149-8154 (2017)  
 
 
-2. Zadbood, A., Chen, J., **Leong, Y. C.**, Norman, K. A., & Hasson, U. <a href="https://academic.oup.com/cercor/article/27/10/4988/4080827" target="_blank">How we transmit memories to other brains: constructing shared neural representations via communication</a>. *Cerebral Cortex*, 27(10): 4988-5000 (2017)
+2. Zadbood, A., Chen, J., **Leong, Y. C.**, Norman, K. A., & Hasson, U. <a href="https://academic.oup.com/cercor/article/27/10/4988/4080827" target="_blank">How we transmit memories to other brains: constructing shared neural representations via communication</a> *Cerebral Cortex*, 27(10): 4988-5000 (2017)
