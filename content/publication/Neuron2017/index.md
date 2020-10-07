@@ -6,11 +6,11 @@ authors:
 - Reka Daniel
 - Vivian DeWoskin
 - Yael Niv
-date: "2017-01-18T00:00:00Z"
+date: "2017-12-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-18T00:00:00Z"
+publishDate: "2017-12-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
