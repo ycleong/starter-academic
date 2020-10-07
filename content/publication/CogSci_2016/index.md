@@ -26,7 +26,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 38th Annual Conference of the Cognitive Science Society"
 publication_short: ""
 
-abstract: "We often make decisions on behalf of others, such as picking out gifts or making restaurant recommendations. Yet, without direct access to others' preferences, our choices on behalf of others depend on what we think they like. Across two experiments, we examined whether and how accurately people are able to infer others' preferences by observing their choices. Our results suggest that people are capable of making reasonably accurate predictions about what others will choose next, given what they have chosen before. These results lay the groundwork to systematically study how people make novel predictions about others' prefer."
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: "*Proceedings of the 38th Annual Conference of the Cognitive Science Society* (2016)"
