@@ -4,7 +4,7 @@ summary: In a separate line of work, my collaborators and I have studied the neu
 
 #tags:
 #- Deep Learning
-date: "2020-10-03T00:00:00Z"
+date: "2020-10-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
