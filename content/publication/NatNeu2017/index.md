@@ -34,15 +34,13 @@ featured: false
 
 links:
 - name: Article 
-  url: https://www.nature.com/articles/s41562-019-0637-z
+  url: https://www.nature.com/articles/nn.4450
 - name: PDF
-  url: 'files/papers/LeongNHB2019.pdf'
+  url: 'files/papers/ChenLeong_NatNeuro2017.pdf'
 - name: SI
-  url: 'files/papers/LeongNHB2019_Supplement.pdf'
-- name: Code/Data
-  url: https://github.com/ycleong/MotivatedPerception  
+  url: 'files/papers/ChenLeong_NatNeuro2017_Supplement.pdf'
 - name: Commentary
-  url: https://www.nature.com/articles/s41562-019-0639-x
+  url: https://www.nature.com/articles/nn.4466
 
 ---
 
