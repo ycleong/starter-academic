@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning in Multidimensional Environments Relies on Attention Mechanisms"
+title: "Reinforcement learning in multidimensional environments relies on attention mechanisms"
 authors: 
 - Yael Niv
 - Reka Daniel
