@@ -1,9 +1,6 @@
 ---
 title: "Neural detection of socially valued community members"
-authors:
-- "Sylvia Morelli`*`"
-- "Yuan Chang Leong`*`"
-- Test Author
+authors = ['Joe Smith*', 'Bob Smith*', 'Someone else']. 
 
 date: "2018-01-07T00:00:00Z"
 doi: ""
