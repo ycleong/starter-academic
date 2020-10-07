@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the Academy of the Sciences"
-publication_short: "PNAS"
+publication_short: ""
 
 abstract: As people form social groups, they benefit from being able to detect socially valuable community members—individuals who act prosocially, support others, and form strong relationships. Multidisciplinary evidence demonstrates that people indeed track others’ social value, but the mechanisms through which such detection occurs remain unclear. Here, we combine social network and neuroimaging analyses to examine this process. We mapped social networks in two freshman dormitories (n = 97), identifying how often individuals were nominated as socially valuable (i.e., sources of friendship, empathy, and support) by their peers. Next, we scanned a subset of dorm members (“perceivers”; n = 50) as they passively viewed photos of their dormmates (“targets”). Perceiver brain activity in regions associated with mentalizing and value computation differentiated between highly valued targets and other community members but did not differentiate between targets with middle versus low levels of social value. Cross-validation analysis revealed that brain activity from novel perceivers could be used to accurately predict whether targets viewed by those perceivers were high in social value or not. These results held even after controlling for perceivers’ own ratings of closeness to targets, and even though perceivers were not directed to focus on targets’ social value. Overall, these findings demonstrate that individuals spontaneously monitor people identified as sources of strong connection in the broader community.
 
