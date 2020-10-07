@@ -1,10 +1,10 @@
 ---
 title: "Conservative and liberal attitudes drive polarized neural responses to political content"
 authors: 
-- Yuan Chang Leong
-- Janice Chen
-- Robb Willer
-- Jamil Zaki 
+- Y.C. Leong
+- J. Chen
+- R. Willer
+- J. Zaki 
 date: "2019-07-01T00:00:00Z"
 doi: ""
 
