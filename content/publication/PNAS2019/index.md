@@ -1,9 +1,9 @@
 ---
 title: "Neural detection of socially valued community members"
 authors:
-- ["Author 1"]
-- ["**Me**"]
-- ["Other Author"]
+- "Author 1"
+- "**Me**"
+- "Other Author"
 
 date: "2018-01-07T00:00:00Z"
 doi: ""
