@@ -1,11 +1,11 @@
 ---
 title: "How We Transmit Memories to Other Brains: Constructing Shared Neural Representations Via Communication"
 authors: 
-- A. Zadbood
-- J. Chen
-- Y. Leong
-- K.A. Norman
-- U. Hasson 
+- Asieh Zadbood
+- Janice Chen
+- Yuan Chang Leong
+- Kenneth A Norman
+- Uri Hasson 
 date: "2016-10-05T00:00:00Z"
 doi: ""
 
