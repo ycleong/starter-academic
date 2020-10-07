@@ -17,7 +17,7 @@ links:
 - icon:
   icon_pack: 
   name: Learn More
-  url: "project/c_socialperception"
+  url: "project/d_communication"
 url_code: ""
 url_pdf: ""
 url_slides: ""
