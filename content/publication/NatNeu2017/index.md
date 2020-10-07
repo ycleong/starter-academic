@@ -1,8 +1,8 @@
 ---
 title: "Shared memories reveal shared structure in neural activity across individuals"
 authors: 
-- 'Janice Chen *'
-- 'Yuan Chang Leong *'
+- 'Janice Chen*'
+- 'Yuan Chang Leong*'
 - Christopher J Honey
 - Chung H Yong
 - Kenneth A Norman
