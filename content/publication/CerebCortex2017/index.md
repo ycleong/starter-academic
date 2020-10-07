@@ -1,9 +1,9 @@
 ---
-title: "How We Transmit Memories to Other Brains: Constructing Shared Neural Representations Via Communication"
+title: "How we transmit memories to other brains: Constructing shared neural representations via communication"
 authors: 
 - Asieh Zadbood
 - Janice Chen
-- Yuan Chang Leong
+- admin
 - Kenneth A Norman
 - Uri Hasson 
 date: "2016-10-05T00:00:00Z"
