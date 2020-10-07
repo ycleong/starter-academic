@@ -1,8 +1,8 @@
 ---
 title: "Unrealistic optimism in advice taking: A computational account"
 authors: 
-- admin
-- Jamil Zaki 
+- Y.C. Leong
+- J. Zaki 
 date: "2018-02-01T00:00:00Z"
 doi: ""
 
