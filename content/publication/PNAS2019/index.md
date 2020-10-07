@@ -2,7 +2,7 @@
 title: "Neural detection of socially valued community members"
 authors: 
 - "Sylvia Morelli*"
-- "Yuan Chang Leong*"
+- "Yuan ChangLeong*"
 - Ryan W. Carlson
 - Monica Kullar
 - Jamil Zaki
