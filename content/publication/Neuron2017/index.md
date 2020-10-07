@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "Neuron"
 publication_short: ""
 
-abstract: 
+abstract: "Little is known about the relationship between attention and learning during decision making. Using eye tracking and multivariate pattern analysis of fMRI data, we measured participants' dimensional attention as they performed a trial-and-error learning task in which only one of three stimulus dimensions was relevant for reward at any given time. Analysis of participants' choices revealed that attention biased both value computation during choice and value update during learning. Value signals in the ventromedial prefrontal cortex and prediction errors in the striatum were similarly biased by attention. In turn, participants' focus of attention was dynamically modulated by ongoing learning. Attentional switches across dimensions correlated with activity in a frontoparietal attention network, which showed enhanced connectivity with the ventromedial prefrontal cortex between switches. Our results suggest a bidirectional interaction between attention and learning: attention constrains learning to relevant dimensions of the environment, while we learn what to attend to via trial and error."
 
 # Summary. An optional shortened abstract.
 summary: "*Neuron* (2017)"
