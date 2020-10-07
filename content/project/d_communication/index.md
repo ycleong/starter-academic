@@ -1,6 +1,6 @@
 ---
 title: Communication and shared experiences
-summary: In a separate line of work, my collaborators and I have studied the neural bases of human communication. We found that (1) experiencing, (2) talking about and (3) listening to a verbal description of the same event elicits shared patterns of neural activity across individuals. The fidelity of this neural pattern correlated with communication success. These results suggest that communication is associated with the construction of shared neural representations.
+summary: In a separate line of work, my collaborators and I have studied the neural bases of human communication. We found that (1) experiencing, (2) talking about and (3) listening to a verbal description of an event elicits shared patterns of neural activity across individuals. The fidelity of this neural pattern correlated with communication success. These results suggest that communication is associated with the construction of shared neural representations.
 
 #tags:
 #- Deep Learning
