@@ -8,6 +8,7 @@ authors:
 - Yuan Chang Leong
 - Angela Radulescu
 - Robert C Wilson
+
 date: "2015-05-27T00:00:00Z"
 doi: ""
 
@@ -24,7 +25,7 @@ publication_types: ["2"]
 publication: "Journal of Neuroscience"
 publication_short: ""
 
-abstract: People tend to believe that their perceptions are veridical representations of the world, but also commonly report perceiving what they want to see or hear. It remains unclear whether this reflects an actual change in what people perceive or merely a bias in their responding. Here we manipulated the percept that participants wanted to see as they performed a visual categorization task. Even though the reward-maximizing strategy was to perform the task accurately, the manipulation biased participants’ perceptual judgements. Motivation increased neural activity selective for the motivationally relevant category, indicating a bias in participants’ neural representation of the presented image. Using a drift diffusion model, we decomposed motivated seeing into response and perceptual components. Response bias was associated with anticipatory activity in the nucleus accumbens, whereas perceptual bias tracked category-selective neural activity. Our results provide a computational description of how the drive for reward leads to inaccurate representations of the world.
+abstract: In recent years, ideas from the computational field of reinforcement learning have revolutionized the study of learning in the brain, famously providing new, precise theories of how dopamine affects learning in the basal ganglia. However, reinforcement learning algorithms are notorious for not scaling well to multidimensional environments, as is required for real-world learning. We hypothesized that the brain naturally reduces the dimensionality of real-world problems to only those dimensions that are relevant to predicting reward, and conducted an experiment to assess by what algorithms and with what neural mechanisms this “representation learning” process is realized in humans. Our results suggest that a bilateral attentional control network comprising the intraparietal sulcus, precuneus, and dorsolateral prefrontal cortex is involved in selecting what dimensions are relevant to the task at hand, effectively updating the task representation through trial and error. In this way, cortical attention mechanisms interact with learning in the basal ganglia to solve the “curse of dimensionality” in reinforcement learning.
 
 # Summary. An optional shortened abstract.
 summary: "*Journal of Neuroscience* (2015)"
@@ -35,15 +36,7 @@ featured: false
 
 links:
 - name: Article 
-  url: https://www.nature.com/articles/s41562-019-0637-z
-- name: PDF
-  url: 'files/papers/LeongNHB2019.pdf'
-- name: SI
-  url: 'files/papers/LeongNHB2019_Supplement.pdf'
-- name: Code/Data
-  url: https://github.com/ycleong/MotivatedPerception  
-- name: Commentary
-  url: https://www.nature.com/articles/s41562-019-0639-x
+  url: https://www.jneurosci.org/content/35/21/8145
 
 #url_code: '#'
 #url_dataset: '#'
