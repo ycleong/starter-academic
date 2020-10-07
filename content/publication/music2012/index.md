@@ -32,6 +32,8 @@ featured: false
 links:
 - name: Article 
   url: https://online.ucpress.edu/mp/article-abstract/30/1/19/62544
+- name: PDF
+  url: 'files/papers/music2012.pdf'
 
 #url_code: '#'
 #url_dataset: '#'
