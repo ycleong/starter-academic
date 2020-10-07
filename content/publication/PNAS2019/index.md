@@ -1,11 +1,15 @@
 ---
 title: "Neural detection of socially valued community members"
 authors:
-- "S. Morelli*"
-- "Y.C. Leong*"
-- R.W. Carlson
-- M. Kullar
-- J. Zaki
+- Sylvia Morelli
+- Yuan Chang Leong
+- Ryan Carlson
+- Monica Kullar
+- Jamil Zaki
+
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2018-01-07T00:00:00Z"
 doi: ""
