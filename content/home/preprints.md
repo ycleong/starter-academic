@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "preprints"
+  page_type = "publications"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+    author = "Jamil Zaki"
     exclude_featured = false
   
 [design]
