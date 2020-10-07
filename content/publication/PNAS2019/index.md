@@ -1,6 +1,11 @@
 ---
 title: "Neural detection of socially valued community members"
-authors = ['Joe Smith*', 'Bob Smith*', 'Someone else'] 
+authors:
+- S. Morelli*
+- Y.C. Leong*
+- R.W. Carlson
+- M. Kullar
+- J. Zaki
 
 date: "2018-01-07T00:00:00Z"
 doi: ""
