@@ -1,8 +1,8 @@
 ---
 title: "Neural detection of socially valued community members"
 authors:
-- S. Morelli*
-- Y.C. Leong*
+- "S. Morelli*"
+- "Y.C. Leong*"
 - R.W. Carlson
 - M. Kullar
 - J. Zaki
