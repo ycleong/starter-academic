@@ -1,6 +1,6 @@
 ---
 title: Communication and shared experiences
-summary: In a separate line of work, my collaborators and I have studied the neural bases of communication. Using fMRI and naturalistic stimuli, we show that experiencing, recalling and listening to a verbal description of an event elicited shared patterns of neural activity across individuals. Furthermore, the fidelity of this neural pattern correlated with memory performance and comprehension. These results suggest that communication is associated with the construction of shared neural representations.
+summary: In a separate line of work, my collaborators and I have studied the neural bases of communication. We found that experiencing, recalling and listening to a verbal description of an event elicited shared patterns of neural activity across individuals. Furthermore, the fidelity of this neural pattern correlated with memory performance and comprehension. These results suggest that communication is associated with the construction of shared neural representations.
 
 #tags:
 #- Deep Learning
