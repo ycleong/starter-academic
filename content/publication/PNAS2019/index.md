@@ -2,8 +2,8 @@
 title: "Neural detection of socially valued community members"
 authors:
 - "Sylvia Morelli*"
-- "Yuan Chang 'Leong*'"
-- Other Author
+- [Yuan Chang Leong*]
+- Test Author
 
 date: "2018-01-07T00:00:00Z"
 doi: ""
