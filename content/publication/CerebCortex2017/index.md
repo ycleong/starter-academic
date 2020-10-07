@@ -34,6 +34,8 @@ featured: false
 links:
 - name: Article 
   url: https://academic.oup.com/cercor/article/27/10/4988/4080827
+- name: PDF
+  url: 'files/papers/CerebCortex2017.pdf'
 
 ---
 
