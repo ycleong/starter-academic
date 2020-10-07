@@ -1,10 +1,13 @@
 ---
 title: "Reinforcement Learning in Multidimensional Environments Relies on Attention Mechanisms"
 authors: 
-- admin
-- Brent L. Hughes
-- Yiyu Wang 
-- Jamil Zaki 
+- Yael Niv
+- Reka Daniel
+- Andra Geana 
+- Samuel J Gershman
+- Yuan Chang Leong
+- Angela Radulescu
+- Robert C Wilson
 date: "2015-01-01T00:00:00Z"
 doi: ""
 
