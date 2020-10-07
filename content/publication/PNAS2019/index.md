@@ -5,11 +5,11 @@ authors:
 - Yuan Chang Leong*
 - Yiyu Wang 
 - Jamil Zaki 
-date: "2019-07-01T00:00:00Z"
+date: "2018-08-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-07-01T00:00:00Z"
+publishDate: "2018-08-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,10 +21,10 @@ publication_types: ["2"]
 publication: "Proceedings of the Academy of the Sciences"
 publication_short: "PNAS"
 
-abstract: People tend to believe that their perceptions are veridical representations of the world, but also commonly report perceiving what they want to see or hear. It remains unclear whether this reflects an actual change in what people perceive or merely a bias in their responding. Here we manipulated the percept that participants wanted to see as they performed a visual categorization task. Even though the reward-maximizing strategy was to perform the task accurately, the manipulation biased participants’ perceptual judgements. Motivation increased neural activity selective for the motivationally relevant category, indicating a bias in participants’ neural representation of the presented image. Using a drift diffusion model, we decomposed motivated seeing into response and perceptual components. Response bias was associated with anticipatory activity in the nucleus accumbens, whereas perceptual bias tracked category-selective neural activity. Our results provide a computational description of how the drive for reward leads to inaccurate representations of the world.
+abstract: As people form social groups, they benefit from being able to detect socially valuable community members—individuals who act prosocially, support others, and form strong relationships. Multidisciplinary evidence demonstrates that people indeed track others’ social value, but the mechanisms through which such detection occurs remain unclear. Here, we combine social network and neuroimaging analyses to examine this process. We mapped social networks in two freshman dormitories (n = 97), identifying how often individuals were nominated as socially valuable (i.e., sources of friendship, empathy, and support) by their peers. Next, we scanned a subset of dorm members (“perceivers”; n = 50) as they passively viewed photos of their dormmates (“targets”). Perceiver brain activity in regions associated with mentalizing and value computation differentiated between highly valued targets and other community members but did not differentiate between targets with middle versus low levels of social value. Cross-validation analysis revealed that brain activity from novel perceivers could be used to accurately predict whether targets viewed by those perceivers were high in social value or not. These results held even after controlling for perceivers’ own ratings of closeness to targets, and even though perceivers were not directed to focus on targets’ social value. Overall, these findings demonstrate that individuals spontaneously monitor people identified as sources of strong connection in the broader community.
 
 # Summary. An optional shortened abstract.
-summary: "*Nature Human Behavior* (2019)"
+summary: "*Proceedings of the Academy of the Sciences* (2018)"
 
 tags:
 #- Source Themes
@@ -34,13 +34,11 @@ links:
 - name: Article 
   url: https://www.pnas.org/content/115/32/8149
 - name: PDF
-  url: 'files/papers/LeongNHB2019.pdf'
+  url: 'files/papers/MorelliLeong_PNAS2019.pdf'
 - name: SI
-  url: 'files/papers/LeongNHB2019_Supplement.pdf'
+  url: 'MorelliLeong_PNAS2019_Supplement.pdf'
 - name: Code/Data
-  url: https://github.com/ycleong/MotivatedPerception  
-- name: Commentary
-  url: https://www.nature.com/articles/s41562-019-0639-x
+  url: https://github.com/esclabUIC/NetworkFMRI
 
 #url_code: '#'
 #url_dataset: '#'
