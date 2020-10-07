@@ -1,11 +1,16 @@
 ---
 title: "Dynamic Interaction between Reinforcement Learning and Attention in Multidimensional Environments"
 authors: 
-- 'Yuan Chang Leong*'
-- 'Angela Radulescu*'
+- Yuan Chang Leong
+- Angela Radulescu
 - Reka Daniel
 - Vivian DeWoskin
 - Yael Niv
+
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
 date: "2017-12-18T00:00:00Z"
 doi: ""
 
