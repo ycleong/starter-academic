@@ -1,10 +1,10 @@
 ---
 title: "Neurocomputational mechanisms underlying motivated seeing"
 authors: 
-- Y.C. Leong
-- B.L. Hughes
-- Y. Wang 
-- J. Zaki 
+- Yuan Chang Leong
+- Brent L Hughes
+- Yiyu Wang 
+- Jamil Zaki 
 date: "2019-07-01T00:00:00Z"
 doi: ""
 
