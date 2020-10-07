@@ -1,15 +1,13 @@
 ---
-title: "Neurocomputational mechanisms underlying motivated seeing"
+title: "Unrealistic optimism in advice taking: A computational account"
 authors: 
 - admin
-- Brent L. Hughes
-- Yiyu Wang 
 - Jamil Zaki 
-date: "2019-07-01T00:00:00Z"
+date: "2018-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-07-01T00:00:00Z"
+publishDate: "2018-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,13 +16,13 @@ publishDate: "2019-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Human Behavior"
-publication_short: "Nat. Hum. Behav."
+publication: "Journal of Experimental Psychology: General"
+publication_short: "JPE:General"
 
-abstract: People tend to believe that their perceptions are veridical representations of the world, but also commonly report perceiving what they want to see or hear. It remains unclear whether this reflects an actual change in what people perceive or merely a bias in their responding. Here we manipulated the percept that participants wanted to see as they performed a visual categorization task. Even though the reward-maximizing strategy was to perform the task accurately, the manipulation biased participants’ perceptual judgements. Motivation increased neural activity selective for the motivationally relevant category, indicating a bias in participants’ neural representation of the presented image. Using a drift diffusion model, we decomposed motivated seeing into response and perceptual components. Response bias was associated with anticipatory activity in the nucleus accumbens, whereas perceptual bias tracked category-selective neural activity. Our results provide a computational description of how the drive for reward leads to inaccurate representations of the world.
+abstract: Expert advisors often make surprisingly inaccurate predictions about the future, yet people heed their suggestions nonetheless. Here we provide a novel, computational account of this unrealistic optimism in advice taking. Across 3 studies, participants observed as advisors predicted the performance of a stock. Advisors varied in their accuracy, performing reliably above, at, or below chance. Despite repeated feedback, participants exhibited inflated perceptions of advisors’ accuracy, and reliably “bet” on advisors’ predictions more than their performance warranted. Participants’ decisions tightly tracked a computational model that makes 2 assumptions: (a) people hold optimistic initial expectations about advisors, and (b) people preferentially incorporate information that adheres to their expectations when learning about advisors. Consistent with model predictions, explicitly manipulating participants’ initial expectations altered their optimism bias and subsequent advice-taking. With well-calibrated initial expectations, participants no longer exhibited an optimism bias. We then explored crowdsourced ratings as a strategy to curb unrealistic optimism in advisors. Star ratings for each advisor were collected from an initial group of participants, which were then shown to a second group of participants. Instead of calibrating expectations, these ratings propagated and exaggerated the unrealistic optimism. Our results provide a computational account of the cognitive processes underlying inflated perceptions of expertise, and explore the boundary conditions under which they occur. We discuss the adaptive value of this optimism bias, and how our account can be extended to explain unrealistic optimism in other domains. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
 
 # Summary. An optional shortened abstract.
-summary: "*Nature Human Behavior* (2019)"
+summary: "*Journal of Experimental Psychology: General* (2018)"
 
 tags:
 #- Source Themes
@@ -32,15 +30,13 @@ featured: false
 
 links:
 - name: Article 
-  url: https://www.nature.com/articles/s41562-019-0637-z
+  url: https://psycnet.apa.org/record/2017-52070-001
 - name: PDF
-  url: 'files/papers/LeongNHB2019.pdf'
+  url: 'files/papers/LeongJPEG2017.pdf'
 - name: SI
-  url: 'files/papers/LeongNHB2019_Supplement.pdf'
+  url: 'files/papers/LeongJPEG2017_Supplement.pdf'
 - name: Code/Data
-  url: https://github.com/ycleong/MotivatedPerception  
-- name: Commentary
-  url: https://www.nature.com/articles/s41562-019-0639-x
+  url: https://github.com/ycleong/AdviceTaking
 
 #url_code: '#'
 #url_dataset: '#'
