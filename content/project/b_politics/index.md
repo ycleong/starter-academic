@@ -38,5 +38,12 @@ I measured the neural response of conservative and liberal participants watching
 
 A challenge faced by prior work is that it is often difficult to precisely assess how the interpretation of two individuals differ based on their verbal reports or behavioral ratings. My approach side-steps this limitation by computing the divergence in DMPFC activity between conservative and liberal participants at each timepoint as a continuous and temporally resolved neural measure of divergent interpretations. The richness of the real-world stimuli used in the study then made it possible to take a data-driven approach to investigate the relationships between message content and biased processing. I broke down the content of the videos into 50 semantic categories and showed that the divergence in DMPFC activity was stronger during moments in the videos with moral-emotional and threat-related language, highlighting the content features most likely to drive divergent interpretations. Future work will combine neuroimaging data with sentence-embedding methods from natural language processing to build more sophisticated and specific semantic models of how political content is interpreted, with the goal of informing interventions aimed at aligning interpretations between conservatives and liberals.
 
+**Media**:  
+<a href="https://news.berkeley.edu/2020/10/20/hot-button-words-trigger-conservatives-and-liberals-differently/" target="_blank">Hot-button words trigger conservatives and liberals differently</a> (Berkeley News, 10.20.2020)
+
+<a href="https://www.brainpost.co/weekly-brainpost/2020/10/27/political-views-bias-information-processing-in-the-brain" target="_blank">Political Views Bias Information Processing in the Brain</a> (BrainPost, 10.27.2020)  
+
+<a href="https://www.medscape.com/viewarticle/939835" target="_blank">Brain Imaging Reveals a Neural Basis for Partisan Politics</a> (Medscape Medical News, 10.27.2020)  
+
 **References:**   
 1. **Leong, Y. C.**, Chen, J., Willer, R., & Zaki, J. <a href="https://www.pnas.org/content/early/2020/10/19/2008530117" target="_blank">Conservative and liberal attitudes drive polarized neural responses to political content</a>. *Proceedings of the National Academy of Sciences* (in press) 
