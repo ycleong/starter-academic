@@ -18,7 +18,7 @@ publishDate: "2021-01-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Psychological Sciencce"
+publication: "Psychological Science"
 publication_short: ""
 
 abstract: "People’s perceptual reports are biased towards percepts they are motivated to see. The arousal system coordinates the body’s response to motivationally significant events, and is well positioned to regulate motivational effects on perceptual judgments. However, it remains unclear whether arousal would enhance or reduce motivational biases. Here we measured pupil dilation as a measure of arousal while participants (n=38) performed a visual categorization task. We used monetary bonuses to motivate participants to see one category over another. Even though the reward-maximizing strategy was to perform the task accurately, participants were more likely to report seeing the desirable category. Furthermore, higher arousal levels were associated with making motivationally biased responses. Analyses using computational models suggest that arousal enhanced motivational effects by biasing evidence accumulation in favor of desirable percepts. These results suggest heightened arousal biases people."
@@ -32,9 +32,11 @@ featured: false
 
 links:
 - name: Preprint
-  url: 'https://www.biorxiv.org/content/10.1101/2020.05.29.124115v1.full.pdf'
+  url: 'https://www.biorxiv.org/content/10.1101/2020.05.29.124115v2'
 - name: SI
-  url: 'https://www.biorxiv.org/content/biorxiv/early/2020/05/31/2020.05.29.124115/DC1/embed/media-1.pdf?download=true'
+  url: 'https://www.biorxiv.org/content/10.1101/2020.05.29.124115v2.supplementary-material'
+- name: Code/Data
+  url: 'https://github.com/ycleong/MotPupil2021'
 
 #url_code: '#'
 #url_dataset: '#'
