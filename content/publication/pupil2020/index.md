@@ -5,26 +5,26 @@ authors:
 - Roma Dziembaj
 - Mark D'Esposito
 
-date: "2020-05-31T00:00:00Z"
+date: "2021-01-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-31T00:00:00Z"
+publishDate: "2021-01-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv"
+publication: "Psychological Sciencce"
 publication_short: ""
 
-abstract: "People are biased towards seeing outcomes they are motivated to see. The arousal system coordinates the body’s response to motivationally significant events, and is well positioned to regulate motivational effects on sensory perception. However, it remains unclear whether arousal would enhance or reduce motivational biases. Here we measured pupil dilation as a measure of arousal while participants performed a visual categorization task. We used monetary bonuses to motivate participants to see one category over another. Even though the reward-maximizing strategy was to perform the task accurately, participants were more likely to report seeing the motivationally desirable category. Furthermore, higher arousal levels were associated with making motivationally biased responses. Analyses using computational models indicated that arousal enhanced motivational effects by biasing evidence accumulation in favor of motivationally desirable percepts. These results suggest heightened arousal biases people towards what they want to see and away from an objective representation of the environment."
+abstract: "People’s perceptual reports are biased towards percepts they are motivated to see. The arousal system coordinates the body’s response to motivationally significant events, and is well positioned to regulate motivational effects on perceptual judgments. However, it remains unclear whether arousal would enhance or reduce motivational biases. Here we measured pupil dilation as a measure of arousal while participants (n=38) performed a visual categorization task. We used monetary bonuses to motivate participants to see one category over another. Even though the reward-maximizing strategy was to perform the task accurately, participants were more likely to report seeing the desirable category. Furthermore, higher arousal levels were associated with making motivationally biased responses. Analyses using computational models suggest that arousal enhanced motivational effects by biasing evidence accumulation in favor of desirable percepts. These results suggest heightened arousal biases people."
 
 # Summary. An optional shortened abstract.
-summary: "*bioRxiv* (2020)"
+summary: "*Psychological Science* (accepted)"
 
 tags:
 #- Source Themes
