@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-**I will be starting as an Assistant Professor at the Department of Psychology at the University of Chicago in July 2021. I am looking to hire a lab manager to start with me. For more information, please see <a href="files/LabManagerAd.pdf" target="_blank">this ad</a>. (Update 4/19/21: We have begun shortlisting candidates, and would not encourage new applications at this time. If you are halfway through putting in an application, please send it in asap.**
+**I will be starting as an Assistant Professor at the Department of Psychology at the University of Chicago in July 2021. I am looking to hire a lab manager to start with me. For more information, please see <a href="files/LabManagerAd.pdf" target="_blank">this ad</a>. (Update 4/19/21: We have begun shortlisting candidates, and would not encourage new applications at this time. If you are halfway through putting in an application, please send it in as soon as possible.**
 
 **For undergraduates at the University of Chicago interested in research assistant opportunities, please see <a href="files/UndergraduateRA_Ad.pdf" target="_blank">this handout</a>.**
 
