@@ -73,9 +73,7 @@ user_groups:
 - Visitors
 ---
 
-**I will be starting as an Assistant Professor at the Department of Psychology at the University of Chicago in July 2021. I am looking to hire a lab manager to start with me. For more information, please see <a href="files/LabManagerAd.pdf" target="_blank">this ad</a>. (Update 4/19/21: We have begun shortlisting candidates, and would not encourage new applications at this time. If you are halfway through putting in an application, please send it in as soon as possible).**
-
-**For undergraduates at the University of Chicago interested in research assistant opportunities, please see <a href="files/UndergraduateRA_Ad.pdf" target="_blank">this handout</a>.**
+**I will be starting as an Assistant Professor at the Department of Psychology at the University of Chicago in July 2021. For undergraduates at the University of Chicago interested in research assistant opportunities, please see <a href="files/UndergraduateRA_Ad.pdf" target="_blank">this handout</a>.**
 
 Imagine playing a heated tennis match and hitting a shot that might or might not have just grazed the sidelines. Would your motivation to win make you more likely to see the ball as having stayed within bounds? Most of us can think of times when we or people we know were biased to see what is desirable, rather than what is really there. How does this happen, and what can we do about it?
 
