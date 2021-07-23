@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Scholar
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Berkeley
+- name: University of Chicago
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -73,8 +73,8 @@ user_groups:
 - Visitors
 ---
 
-**I will be starting as an Assistant Professor at the Department of Psychology at the University of Chicago in July 2021. For undergraduates at the University of Chicago interested in research assistant opportunities, please see <a href="files/UndergraduateRA_Ad.pdf" target="_blank">this handout</a>.**
-
 Imagine playing a heated tennis match and hitting a shot that might or might not have just grazed the sidelines. Would your motivation to win make you more likely to see the ball as having stayed within bounds? Most of us can think of times when we or people we know were biased to see what is desirable, rather than what is really there. How does this happen, and what can we do about it?
 
 My research examines the different ways in which goals, desires and needs affect how people perceive and respond to our environment. My work draws from the traditions of cognitive neuroscience, social psychology and affective science. I use a broad range of methodological tools, including behavioral experiments, computational modeling, fMRI, pupillometry, naturalistic paradigms and network analyses. By combining different tools and perspectives, I seek to characterize motivational influences on human cognition at the psychological, computational and neural levels. One ultimate goal of this work is to identify behavioral and neural targets of intervention to improve socio-cognitive functioning.
+
+I direct the Motivation and Cognition Neuroscience Laboratory at the University of Chicago. You can learn more about my lab here: https://voices.uchicago.edu/mcnlab/. 
