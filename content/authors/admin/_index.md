@@ -77,4 +77,4 @@ Imagine playing a heated tennis match and hitting a shot that might or might not
 
 My research examines the different ways in which goals, desires and needs affect how people perceive and respond to our environment. My work draws from the traditions of cognitive neuroscience, social psychology and affective science. I use a broad range of methodological tools, including behavioral experiments, computational modeling, fMRI, pupillometry, naturalistic paradigms and network analyses. By combining different tools and perspectives, I seek to characterize motivational influences on human cognition at the psychological, computational and neural levels. One ultimate goal of this work is to identify behavioral and neural targets of intervention to improve socio-cognitive functioning.
 
-I direct the Motivation and Cognition Neuroscience Laboratory at the University of Chicago. You can learn more about my lab here: https://voices.uchicago.edu/mcnlab/. 
+I direct the Motivation and Cognition Neuroscience Laboratory at the University of Chicago. You can learn more about my lab here: https://mcnlab.uchicago.edu/. 
