@@ -49,7 +49,7 @@ social:
   link: files/Leong_CV.pdf
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=An2VxEwAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=An2VxEwAAAAJ&sortby=pubdate
 - icon: github
   icon_pack: fab
   link: https://github.com/ycleong
